@@ -1,7 +1,5 @@
 # Scheduling Work and OT System
 
-A brief description of your project, what it does, and its purpose.
-
 ## Table of Contents
 
 1. [Demo](#demo)
