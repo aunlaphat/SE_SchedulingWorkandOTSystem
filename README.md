@@ -1,38 +1,25 @@
 # Scheduling Work and OT System
 
-## Table of Contents
+## Development server
 
-1. [Demo](#demo)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+Run `npm start` or `yarn start` for a development server. Navigate to `http://localhost:3000/`. The application will automatically reload if you change any of the source files.
 
-## Demo
+## Code scaffolding
 
-If applicable, include a link to a live demo of your project, or a GIF showing it in action.
+Run `npm run generate` or `yarn generate` to generate a new component. (Note: React does not have a built-in code scaffolding command, but you can use tools like [Plop.js](https://plopjs.com/) for this purpose.)
 
-## Features
+## Build
 
-- List the key features of your project
-- Responsive design
-- State management using React Hooks
-- Example: Authentication system
-- Example: Integration with an API
+Run `npm run build` or `yarn build` to build the project. The build artifacts will be stored in the `build/` directory.
 
-## Installation
+## Running unit tests
 
-### Prerequisites
+Run `npm test` or `yarn test` to execute the unit tests via [Jest](https://jestjs.io).
 
-Before you begin, ensure you have met the following requirements:
+## Running end-to-end tests
 
-- Node.js (>=14.x)
-- npm (>=6.x) or yarn (>=1.22.x)
+Run `npm run e2e` or `yarn e2e` to execute the end-to-end tests. (Note: React does not include end-to-end testing by default, but you can use tools like [Cypress](https://www.cypress.io/) or [Selenium](https://www.selenium.dev/) for this purpose.)
 
-### Clone the Repository
+## Further help
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+To get more help on the React CLI or related tools, refer to their respective documentation pages.
